@@ -1,0 +1,7 @@
+name = X96 Design
+description = The dripping, wet, sexy theme that will make your feeble CSS wimper in envy.
+package = Core
+version = 55
+core = 7.x
+stylesheets[all][] = css/screen.css
+
